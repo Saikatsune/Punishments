@@ -1,0 +1,23 @@
+#Type your database credentials in here:
+mysql:
+  host: localhost
+  username: username
+  database: database
+  password: password
+  port: 3306
+
+prefix: '&4&lPunishments &8>> '
+
+#PRIVATE = Announces punishments to staff-member only.
+#PUBLIC = Announces punishments to everyone.
+punishments-announcements: 'PUBLIC'
+
+#Automatically blocks evading players.
+ip-block: true
+
+#Automatically blocks vpn addresses.
+#(Very alpha state & not many vpn addresses registered yet.)
+vpn-block: true
+
+#Website link for players to appeal.
+website-link: 'appeal.your-server.com'

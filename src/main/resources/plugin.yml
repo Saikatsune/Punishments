@@ -1,0 +1,22 @@
+name: Punishments
+author: Saikatsune
+version: 0.9-beta
+main: net.saikatsune.punishments.Punishments
+
+commands:
+  kick:
+    permission: punishments.kick
+  ban:
+    permission: punishments.ban
+  unban:
+    permission: punishments.unban
+  mute:
+    permission: punishments.mute
+  unmute:
+    permission: punishments.unmute
+  ipreport:
+    permission: punishments.ipreport
+  check:
+    permission: punishments.check
+  gui:
+    permission: punishments.gui
